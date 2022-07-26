@@ -1,0 +1,11 @@
+.flex {
+  text-align: left;
+  margin-left: 640px;
+  flex: 1;
+}
+
+img {
+  margin-left: 350px;
+  width: 800px;
+  height: 450px;
+}
